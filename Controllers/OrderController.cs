@@ -60,7 +60,6 @@ namespace Orders.Api.Controllers
             _transportOrderRepository = transportOrderRepository;
         }
 
-
         //------Customers--------
         [HttpGet("Customers/GetAll")]
         public async Task<IActionResult> GetAllCustomers()

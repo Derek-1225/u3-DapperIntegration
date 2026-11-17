@@ -60,3 +60,4 @@ C:\Users\derek\OneDrive\Escritorio\ISC\7moSemestre\Topicos\u3TopicosAvanzadosPro
 C:\Users\derek\OneDrive\Escritorio\ISC\7moSemestre\Topicos\u3TopicosAvanzadosProgramacion\Orders.Api\bin\Debug\net10.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
 C:\Users\derek\OneDrive\Escritorio\ISC\7moSemestre\Topicos\u3TopicosAvanzadosProgramacion\Orders.Api\bin\Debug\net10.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
 C:\Users\derek\OneDrive\Escritorio\ISC\7moSemestre\Topicos\u3TopicosAvanzadosProgramacion\Orders.Api\bin\Debug\net10.0\runtimes\win\lib\net10.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\derek\OneDrive\Escritorio\ISC\7moSemestre\Topicos\u3TopicosAvanzadosProgramacion\Orders.Api\obj\Debug\net10.0\Orders.Api.sourcelink.json
